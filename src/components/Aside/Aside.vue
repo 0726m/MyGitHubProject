@@ -28,6 +28,10 @@
         <i class="el-icon-s-check"></i>
         <span slot="title">聊天室</span>
       </el-menu-item>
+      <el-menu-item index="/haha">
+        <i class="el-icon-s-check"></i>
+        <span slot="title">哈哈哈哈</span>
+      </el-menu-item>
     </el-menu>
   </div>
 </template>

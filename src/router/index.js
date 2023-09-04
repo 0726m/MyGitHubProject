@@ -82,6 +82,11 @@ const routes = [
         name: 'home',
         component: Home
       },
+      {
+        path: '/haha',
+        name: 'haha',
+        component: () => import('@/components/HaDemo/HaDemo.vue')
+      },
     ]
 
   }
